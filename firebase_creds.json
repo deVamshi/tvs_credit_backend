@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "chaos-tvs-credit",
+  "private_key_id": "afedfebf831ada8d7cbc534844b3ac741ce7a3d5",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC52CNgI6KdvVwj\nCtBa0mJVnuPoKtJHGHlp7spV+o77MyeLF/bGdQoS4ksS2RgV4qPI970+PuEsp6X2\n3msnpBEA4lkwMBDJ5WR55drxlGiSWd0bExW2oAV7ebOXJGvRVlY/LJQrQH24KRWw\nFqPypS4gfbEdyDtsADXVwu1LEd8B1DgDmdX/0Oad2qv97RnkVCAvxx1npOMdp0eR\ndECjfo313fOY6D9dLBr0QEHwRDo6fwiy3osO+oYB993zPEfaurBftNOBP6BhXS4d\nnrfKtLOh2VcCeSpq39sfBuyOG3GB/o0y0sfF8tauvTF2hJe2DYZEkVxMDM6sCSDv\ntr6YizcrAgMBAAECggEAVXJ7nWX1DEq21MPRlZiartxN1H7vzNGDbYHl1Q9Nc1EL\nUugzRf8lIRabxvA7I0Df5nSFtdtqY8I3TCDqqsDEMqBfuoi3B2Upw+Q7vQxr4jJg\nN2UYfC3qJ2IHASy1R/xGzmgcPiC6TRTSzHI0ckmhQj4YU+Wu8JLOLdkgin4Oh4N2\nxKIIK8iMvOuc0H/1tWR5hQMwD2odWJph/TeQtqgrUz3+8yDElCAQEjZJutHkBUY2\nP6LDBGO1u0Wg5zI74N0FiPHICv4j8O1sQvxgQNLfYvvGtcoKrQGXL2DyU0EG/T5J\n+SsEyFtjZjHbx6lrQGl3nQYWnnGBev9i9NXQo7TqbQKBgQDvcQaLAgKBpj40niO1\nzXl+keR/GYoybwQEXXFJecMPabsZqToMJqiQdPwQvpdXBWqvZzPM7FhG9ImJa20f\nHpqro/njmbwUyVrHgyDw1n4iE40UaK83VrcnCDkzxpcHEEOyDDOTSDxnsrj5rkX8\nMjw+lYkUmCpw7Q9/mk/1cAh+3wKBgQDGsj/bdKxpNg1rnFrwfgaNGGBFUsebgBH8\n1N7sLz4wlQUgiQ7HVpsFkcEj+ldSxd4LHCQtIKTRytEHXmmHAOhywR0nLhUuV9vR\n2MxlNlOUebLLYOPpu6J30e95UoxWCPc4oFqrdX3RzGqgaYTSZAqTVsfIblCzsZ7u\n/wSfA7xtNQKBgHy1q6i/FTsdsQyKySKpsHvh1Nb2IGqAM+FqIdUZHCVs9kw5PciS\nYf1LUPYPrpdedOCCqhIzjw710qTGVQF+WSTItSB8M9/HuAZuH7wQm4V4FWTp2UjD\nW4Vy3QhAiOze5cNYY4x0dTG1fm5c/IqMR6B5Ffqp/oDul8HoR3kYLvSVAoGAGmqO\nVNXhKie2hw0Fhh2rL00DV5QW15SiT5PZg1sQkJLvWJEANv5Lo+Tp4aehvm5yA9Yc\n9Sb24rFtMuaZbwpu3PrRrmjRBhVGM1L4cahUWlQHskRSaLu6cOWnSeDwqWuNuqiP\nBWaccK0Vq/f7YaFNSqNp8jrAXfOKZsneymlLvtUCgYEArl8Ng9x6OMnlya2qVlng\nM1A8U2niI1uBLTIRwp/tuqFryrC5sfaHLbduu6SWdZCCepuLMFybc0i+4WngZbTg\n3zGMPovcfEZn6R73CnTjdDUjVUPeBx/AY91JrXnvTs0/rgJ+hJ/phvez7RK5lNKD\nReP95vdVrzlQb07Ezcukaxc=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-1ixc5@chaos-tvs-credit.iam.gserviceaccount.com",
+  "client_id": "102505897182042545442",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-1ixc5%40chaos-tvs-credit.iam.gserviceaccount.com"
+}
